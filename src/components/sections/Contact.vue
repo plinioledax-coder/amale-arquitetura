@@ -12,11 +12,11 @@ const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xnjjywnj'
 const contactData = {
     phoneDisplay: '(71) 99716-0510',
     // Link direto para WhatsApp com mensagem pronta
-    whatsappLink: 'https://wa.me/5571997160510?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20A2F%20e%20gostaria%20de%20um%20or%C3%A7amento.',
-    instagramDisplay: '@a2farquitetura',
-    instagramLink: 'https://www.instagram.com/a2farquitetura/',
+    whatsappLink: 'https://wa.me/5571997160510?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20AMALE%20e%20gostaria%20de%20um%20or%C3%A7amento.',
+    instagramDisplay: '@AMALEarquitetura',
+    instagramLink: 'https://www.instagram.com/AMALEarquitetura/',
     location: 'Salvador - BA',
-    email: 'contato@a2f.com.br' // Coloque o email real aqui se tiver, senão pode remover
+    email: 'contato@AMALE.com.br' // Coloque o email real aqui se tiver, senão pode remover
 }
 
 const handleSubmit = async () => {

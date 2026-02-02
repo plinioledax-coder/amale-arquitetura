@@ -9,6 +9,7 @@ import Testimonials from '../components/sections/Testimonials.vue' // (Depoiment
 import Contact from '../components/sections/Contact.vue'
 import Footer from '../components/layout/Footer.vue'
 import FloatingWhatsapp from '../components/ui/FloatingWhatsapp.vue'
+import ScrollReveal from '../components/ui/ScrollReveal.vue'
 
 </script>
 
@@ -30,6 +31,7 @@ import FloatingWhatsapp from '../components/ui/FloatingWhatsapp.vue'
 
     <Contact />
 
+    <ScrollReveal />
 
     <Footer />
 

@@ -63,7 +63,7 @@ onUnmounted(() => clearInterval(timer.value))
       <div class="max-w-5xl mx-auto space-y-2">
          <ScrollReveal>
              <p class="text-[#C87D70] font-bold tracking-[0.4em] uppercase text-xs md:text-sm mb-4">
-                 A2F Arquitetura
+                 AMALE Arquitetura
              </p>
          </ScrollReveal>
 

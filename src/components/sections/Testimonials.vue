@@ -4,7 +4,7 @@ import { Quote, Star } from 'lucide-vue-next'
 const testimonials = [
     {
         id: 1,
-        text: "A A2F não entregou apenas um projeto, entregou a nossa identidade. Conseguiram captar exatamente o que queríamos, mesmo quando nem nós sabíamos explicar direito.",
+        text: "A AMALE não entregou apenas um projeto, entregou a nossa identidade. Conseguiram captar exatamente o que queríamos, mesmo quando nem nós sabíamos explicar direito.",
         author: "Mariana & João",
         project: "Apartamento Vila Nova",
         type: "Reforma Completa",

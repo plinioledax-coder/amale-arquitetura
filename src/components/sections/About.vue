@@ -1,7 +1,7 @@
 <script setup>
 import { PenTool, HardHat, Heart, MapPin } from 'lucide-vue-next'
 
-// DIFERENCIAIS (Texto adaptado para a identidade A2F)
+// DIFERENCIAIS (Texto adaptado para a identidade AMALE)
 const features = [
   {
     icon: PenTool,
@@ -53,7 +53,7 @@ const stats = [
 
         <div class="text-[#2C3E2D]/80 text-lg leading-relaxed font-sans font-light space-y-4 text-justify">
           <p>
-            Na <strong class="text-[#7A9578] font-bold">A2F Arquitetura</strong>, acreditamos que o bom design nasce da
+            Na <strong class="text-[#7A9578] font-bold">AMALE Arquitetura</strong>, acreditamos que o bom design nasce da
             escuta.
             Somos um escritório liderado por <strong>Alessandra Andrade</strong> e <strong>Amanda Fraga</strong>, unindo
             criatividade e rigor técnico.
@@ -88,7 +88,7 @@ const stats = [
         <div
           class="absolute top-0 right-0 w-5/6 h-5/6 overflow-hidden shadow-2xl z-10 group border-l-4 border-b-4 border-white">
           <img src= '../../assets/images/ambas.jpeg'
-            alt="Equipe A2F" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700">
+            alt="Equipe AMALE" class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700">
           <div
             class="absolute inset-0 bg-[#2C3E2D]/20 mix-blend-multiply pointer-events-none transition-opacity group-hover:opacity-0">
           </div>
