@@ -46,10 +46,10 @@ const handleLogoClick = () => {
 
       <a href="#" @click.prevent="handleLogoClick" class="block w-28 md:w-32 hover:opacity-80 transition-opacity">
         <img v-if="isScrolled || isMenuOpen"
-          src="https://placehold.co/200x80/transparent/7A9578?text=A2F+Arq&font=playfair-display" alt="A2F Arquitetura"
+          src="https://placehold.co/200x80/transparent/7A9578?text=AMALE&font=playfair-display" alt="AMALE Arquitetura"
           class="w-full h-auto" />
-        <img v-else src="https://placehold.co/200x80/transparent/white?text=A2F+Arq&font=playfair-display"
-          alt="A2F Arquitetura" class="w-full h-auto" />
+        <img v-else src="https://placehold.co/200x80/transparent/white?text=AMALE&font=playfair-display"
+          alt="AMALE Arquitetura" class="w-full h-auto" />
       </a>
 
       <div class="hidden xl:flex gap-6 items-center">

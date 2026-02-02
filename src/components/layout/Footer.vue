@@ -10,7 +10,7 @@ const scrollToTop = () => {
             
             <div class="flex flex-col items-center md:items-start order-1">
                 <a href="#" @click.prevent="scrollToTop" class="cursor-pointer hover:opacity-100 transition-opacity opacity-80">
-                    <img src="https://placehold.co/200x80/transparent/white?text=A2F+Arq&font=playfair-display" alt="A2F Arquitetura" class="w-24 h-auto mb-2 opacity-90"> 
+                    <img src="https://placehold.co/200x80/transparent/white?text=AMALE+Arq&font=playfair-display" alt="AMALE Arquitetura" class="w-24 h-auto mb-2 opacity-90"> 
                 </a>
             </div>
 
@@ -24,7 +24,7 @@ const scrollToTop = () => {
             </div>
 
             <div class="text-[10px] text-center md:text-right leading-relaxed order-3 opacity-60">
-                <p>&copy; {{ new Date().getFullYear() }} A2F Arquitetura. Todos os direitos reservados.</p>
+                <p>&copy; {{ new Date().getFullYear() }} AMALE Arquitetura. Todos os direitos reservados.</p>
                 <p>
                     Desenvolvido por
                     <a href="https://www.instagram.com/aperte.f1/" target="_blank"
